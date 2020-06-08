@@ -5,4 +5,5 @@
 2.[两数相加(中等)/链表](https://github.com/JavaCodeMing/LeetCode/blob/master/Algorithm/2.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0(%E4%B8%AD%E7%AD%89).md)   
 3.[无重复字符串的最长子串(中等)/滑动窗口](https://github.com/JavaCodeMing/LeetCode/blob/master/Algorithm/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2(%E4%B8%AD%E7%AD%89).md)   
 4.[寻找两个有序数组的中位数(困难)/递归](https://github.com/JavaCodeMing/LeetCode/blob/master/Algorithm/4.%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0(%E5%9B%B0%E9%9A%BE).md)   
+5.[最长回文子串(中等)/动态规划/中心扩展](https://github.com/JavaCodeMing/LeetCode/blob/master/Algorithm/5.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2(%E4%B8%AD%E7%AD%89).md)   
 
