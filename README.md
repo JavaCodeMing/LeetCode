@@ -14,3 +14,4 @@
 84.[柱状图中最大的矩形(困难)/单调栈](https://github.com/JavaCodeMing/LeetCode/blob/master/Algorithm/84.%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2(%E5%9B%B0%E9%9A%BE).md)   
 85.[最大矩形(困难)/动态规划](https://github.com/JavaCodeMing/LeetCode/blob/master/Algorithm/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2(%E5%9B%B0%E9%9A%BE).md)   
 94.[二叉树的中序遍历(中等)/递归/栈](https://github.com/JavaCodeMing/LeetCode/blob/master/Algorithm/94.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86(%E4%B8%AD%E7%AD%89).md)   
+98.[验证二叉搜索树(中等)/递归/中序遍历](https://github.com/JavaCodeMing/LeetCode/blob/master/Algorithm/98.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91(%E4%B8%AD%E7%AD%89).md)   
